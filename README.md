@@ -1,0 +1,1 @@
+# registrar-java-application
